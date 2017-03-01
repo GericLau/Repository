@@ -1,4 +1,4 @@
-# Reposiitory #
+# Repository #
 Some small tips I learnt
 
 ## Clear cache in Chrome ##
